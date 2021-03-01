@@ -1,6 +1,7 @@
 import React from "react";
 import './App.css';
 import Nav from "./components/nav.js"
+import Footer from "./components/footer.js"
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import About from "./pages/About.js";
 import Portfolio from "./pages/Portfolio";
@@ -16,6 +17,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/resume" component={Resume} />
         </Switch>
+        <Footer />
     </BrowserRouter>
   );
 }
