@@ -1,6 +1,5 @@
-
 body {
-  background-image: url(./images/oriental-tiles.png);
+  background-color: url(images/oriental-tiles.png);
   background-repeat: repeat;
   background-size: 20%;
 }
