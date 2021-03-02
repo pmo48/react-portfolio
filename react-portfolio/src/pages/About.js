@@ -42,26 +42,24 @@ function About() {
             <aside className="col-md-4">
               <br></br>
               <br></br>
-              <br></br>
-              <br></br>
-
-                <div className="card mt-4">
-                    <img className="card-img-top" src={motorcycle} alt="motorcycle"/>
+          
+                <div className="card mt-4" style={{width: "18rem"}}>
+                    <img className="card-img-top" src={motorcycle} style={{height: "18rem"}}alt="motorcycle"/>
                     <div className="card-body">
                       <h5 className="card-title">Motorcycle Trips</h5>
                       <p className="card-text">I like motorcycle trips through national parks, especially camping!</p>
                     </div>
                 </div>
-                <div className="card mt-4">
-                <img className="card-img-top" src={hiking} alt="
+                <div className="card mt-4" style={{width: "18rem"}}>
+                <img className="card-img-top" src={hiking} style={{height: "18rem"}} alt="
                     colombian bus"/>                    
                     <div className="card-body">
                     <h5 className="card-title">Hiking</h5>
                     <p className="card-text">I like hiking around San Diego. Palm Canyon in Borrego Springs is my favorite.</p>
                     </div>
                 </div>
-                <div className="card mt-4 mb-4">
-                    <img className="card-img-top" src={colombia} alt="
+                <div className="card mt-4 mb-4" style={{width: "18rem"}}>
+                    <img className="card-img-top" src={colombia} style={{height: "18rem"}} alt="
                     colombian bus"/>
                     <div className="card-body">
                         <h5 className="card-title">Travel</h5>

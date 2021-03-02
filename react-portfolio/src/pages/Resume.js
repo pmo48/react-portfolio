@@ -20,6 +20,7 @@ function Resume() {
         <a href={cv} download>
           <img src={cvimage} className="img-fluid" alt="resume"/></a>
       </div>
+      <br></br>
       </main>
   );
 }
