@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.929c610c.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f8bd1425.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f8bd1425.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bcca9bf0.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bcca9bf0.js.map",
+    "static/css/2.150d169a.chunk.css": "/react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.7057b3a1.chunk.js": "/react-portfolio/static/js/2.7057b3a1.chunk.js",
+    "static/js/2.7057b3a1.chunk.js.map": "/react-portfolio/static/js/2.7057b3a1.chunk.js.map",
+    "static/js/3.ab31b1a8.chunk.js": "/react-portfolio/static/js/3.ab31b1a8.chunk.js",
+    "static/js/3.ab31b1a8.chunk.js.map": "/react-portfolio/static/js/3.ab31b1a8.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.929c610c.chunk.css.map": "/react-portfolio/static/css/main.929c610c.chunk.css.map",
+    "static/js/2.7057b3a1.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.7057b3a1.chunk.js.LICENSE.txt",
+    "static/media/PatMoriartyResume.240fdf0e.pdf": "/react-portfolio/static/media/PatMoriartyResume.240fdf0e.pdf",
+    "static/media/burger.9b6c9355.png": "/react-portfolio/static/media/burger.9b6c9355.png",
+    "static/media/colombia.34263207.jpg": "/react-portfolio/static/media/colombia.34263207.jpg",
+    "static/media/icons8-gmail-480.c4479149.png": "/react-portfolio/static/media/icons8-gmail-480.c4479149.png",
+    "static/media/intro.a2c631b7.png": "/react-portfolio/static/media/intro.a2c631b7.png",
+    "static/media/motorcycle-camping.9347d989.jpg": "/react-portfolio/static/media/motorcycle-camping.9347d989.jpg",
+    "static/media/node_ET.a685fd0d.png": "/react-portfolio/static/media/node_ET.a685fd0d.png",
+    "static/media/App.css": "/react-portfolio/static/media/oriental-tiles.eb925fbd.png",
+    "static/media/palm-canyon.2c4fc5e0.jpg": "/react-portfolio/static/media/palm-canyon.2c4fc5e0.jpg",
+    "static/media/resume.82478aaf.png": "/react-portfolio/static/media/resume.82478aaf.png",
+    "static/media/selfie.0ed089db.jpg": "/react-portfolio/static/media/selfie.0ed089db.jpg",
+    "static/media/videos.e43ddb28.png": "/react-portfolio/static/media/videos.e43ddb28.png",
+    "static/media/wds.5cfb0f2c.png": "/react-portfolio/static/media/wds.5cfb0f2c.png",
+    "static/media/weather.5c64b476.png": "/react-portfolio/static/media/weather.5c64b476.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcca9bf0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7057b3a1.chunk.js",
+    "static/css/main.929c610c.chunk.css",
+    "static/js/main.f8bd1425.chunk.js"
+  ]
+}
