@@ -1,8 +1,8 @@
 import React from "react";
-// import selfie from "../images/selfie.png"
-// import motorcycle from "../images/motorcycle-camping.png"
-// import hiking from "../images/palm-canyon.jpeg"
-// import colombia from "../images/colombia.jpg"
+import selfie from "../images/selfie.jpg"
+import motorcycle from "../images/motorcycle-camping.jpg"
+import hiking from "../images/palm-canyon.jpg"
+import colombia from "../images/colombia.jpg"
 
 function About() {
   return (
@@ -14,7 +14,7 @@ function About() {
                 </div>
                 <div className="row">
                   <div className="col-md-3">
-                    {/* <img src={selfie} alt="Pat Selfie" className="img-thumbnail"/> */}
+                    <img src={selfie} alt="Pat Selfie" className="img-thumbnail"/>
                   </div>
                   <div className="col-md-9">
                       <p className="text-white">
@@ -40,23 +40,29 @@ function About() {
               </div>
 
             <aside className="col-md-4">
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+
                 <div className="card mt-4">
-                    {/* <img className="card-img-top" src={motorcycle} alt="motorcycle"/> */}
+                    <img className="card-img-top" src={motorcycle} alt="motorcycle"/>
                     <div className="card-body">
                       <h5 className="card-title">Motorcycle Trips</h5>
                       <p className="card-text">I like motorcycle trips through national parks, especially camping!</p>
                     </div>
                 </div>
                 <div className="card mt-4">
-                    {/* <img className="card-img-top" src={hiking} alt="palm trees"/> */}
+                <img className="card-img-top" src={hiking} alt="
+                    colombian bus"/>                    
                     <div className="card-body">
                     <h5 className="card-title">Hiking</h5>
                     <p className="card-text">I like hiking around San Diego. Palm Canyon in Borrego Springs is my favorite.</p>
                     </div>
                 </div>
                 <div className="card mt-4 mb-4">
-                    {/* <img className="card-img-top" src={colombia} alt="
-                    colombian bus"/> */}
+                    <img className="card-img-top" src={colombia} alt="
+                    colombian bus"/>
                     <div className="card-body">
                         <h5 className="card-title">Travel</h5>
                         <p className="card-text">I enjoy international travel when possible. I'm always up to try new foods and meet new people.</p>
