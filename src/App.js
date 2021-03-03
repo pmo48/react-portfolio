@@ -13,9 +13,9 @@ function App() {
         <Nav />
         <Switch>
           <Route exact path="/" component={About} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/resume" component={Resume} />
+          <Route path="/about" component={About} />
+          <Route path="/portfolio" component={Portfolio} />
+          <Route path="/resume" component={Resume} />
         </Switch>
         <Footer />
     </BrowserRouter>
