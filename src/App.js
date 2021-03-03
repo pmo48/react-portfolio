@@ -9,7 +9,7 @@ import Resume from "./pages/Resume";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Nav />
         <Switch>
           <Route exact path="/" component={About} />
